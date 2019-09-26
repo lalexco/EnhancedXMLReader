@@ -1,0 +1,73 @@
+﻿<?xml version="1.0"?>
+<site>
+  <status>0</status>
+  <bankAccount uniqueId="23232323" acctType="checking">
+    <accountName>TESTDATA</accountName>
+    <accountNumber>12345</accountNumber>
+    <accountHolder>accountHolder</accountHolder>
+    <FirstName>Luis</FirstName>
+    <Address1>William Shakespeare #546</Address1>
+    <State>CA</State>
+    <balance balType="availableBalance">
+      <curAmt curCode="USD">54.78</curAmt>
+    </balance>
+    <balance balType="currentBalance">
+      <curAmt curCode="USD">44.78</curAmt>
+    </balance>
+  </bankAccount>
+  <bankAccount uniqueId="000000001" acctType="checking">
+    <accountName>TESTDATA</accountName>
+    <accountNumber>0987678</accountNumber>
+    <accountHolder>accountHolder</accountHolder>
+    <FirstName>Alejandro</FirstName>
+    <Address1>Alba Edison #453</Address1>
+    <State>CA</State>
+    <balance balType="availableBalance">
+      <curAmt curCode="USD">54.78</curAmt>
+    </balance>
+    <balance balType="currentBalance">
+      <curAmt curCode="USD">44.78</curAmt>
+    </balance>
+  </bankAccount>
+  <bankAccount uniqueId="000000121" acctType="savings">
+    <accountName>TESTDATA</accountName>
+    <accountNumber>503-1123xxx</accountNumber>
+    <accountHolder>accountHolder</accountHolder>
+    <FirstName>Adam Tompson</FirstName>
+    <Address1>Vivaldi #430</Address1>
+    <State>CA</State>
+    <balance balType="availableBalance">
+      <curAmt curCode="USD">54.78</curAmt>
+    </balance>
+    <balance balType="currentBalance">
+      <curAmt curCode="USD">44.78</curAmt>
+    </balance>
+  </bankAccount>
+  <bankAccount uniqueId="123434" acctType="savings">
+    <accountName>TESTDATA</accountName>
+    <accountNumber>4565434567</accountNumber>
+    <accountHolder>accountHolder</accountHolder>
+    <FirstName>Testing Address Empty</FirstName>
+    <Address1></Address1>
+    <State>CA</State>
+    <balance balType="availableBalance">
+      <curAmt curCode="USD">54.78</curAmt>
+    </balance>
+    <balance balType="currentBalance">
+      <curAmt curCode="USD">44.78</curAmt>
+    </balance>
+  </bankAccount>
+  <bankAccount uniqueId="123434" acctType="savings">
+    <accountName>TESTDATA</accountName>
+    <accountNumber>234324323</accountNumber>
+    <accountHolder>accountHolder</accountHolder>
+    <FirstName>Testing No Address</FirstName>
+    <State>CA</State>
+    <balance balType="availableBalance">
+      <curAmt curCode="USD">54.78</curAmt>
+    </balance>
+    <balance balType="currentBalance">
+      <curAmt curCode="USD">44.78</curAmt>
+    </balance>
+  </bankAccount>
+</site>
